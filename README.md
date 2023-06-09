@@ -19,6 +19,7 @@
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=0A192F&logo=javascript&logoColor=CCD6F6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&color=0A192F&logo=bootstrap&logoColor=CCD6F6)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=0A192F&logo=html5&logoColor=CCD6F6)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=0A192F&logo=css3&logoColor=CCD6F6
 )&nbsp;
