@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor-Louback&show_icons=true&count_private=true&hide_border=true&title_color=61F8D7&icon_color=61F8D7&text_color=CCD6F6&bg_color=0A192F" alt="Victor Louback github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Louback&layout=compact&hide_border=true&title_color=61F8D7&text_color=CCD6F6&bg_color=0A192F" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victor-louback&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&title_color=61F8D7&icon_color=61F8D7&text_color=CCD6F6&bg_color=0A192F" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-louback&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact&title_color=61F8D7&icon_color=61F8D7&text_color=CCD6F6&bg_color=0A192F" />
 </div>
 
 
