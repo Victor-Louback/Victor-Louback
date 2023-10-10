@@ -26,7 +26,7 @@
 
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=0A192F&logo=javascript&logoColor=CCD6F6)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&color=0A192F&logo=PHP&logoColor=CCD6F6)&nbsp;
 
 
 
